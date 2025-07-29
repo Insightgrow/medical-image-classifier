@@ -1,0 +1,13 @@
+Image,Prediction,Confidence
+extracted_images\pdf_page_0_img_0.jpeg,medical,0.98999196
+extracted_images\pdf_page_0_img_1.jpeg,medical,0.99977416
+extracted_images\pdf_page_1_img_0.jpeg,non_medical,0.99997604
+extracted_images\pdf_page_1_img_1.jpeg,medical,0.9999647
+extracted_images\pdf_page_2_img_0.jpeg,medical,0.86941844
+extracted_images\pdf_page_2_img_1.jpeg,non_medical,0.9736813
+extracted_images\pdf_page_2_img_2.jpeg,non_medical,0.9909765
+extracted_images\pdf_page_3_img_0.jpeg,non_medical,0.7875839
+extracted_images\pdf_page_3_img_1.jpeg,non_medical,0.7352498
+extracted_images\pdf_page_3_img_2.jpeg,medical,0.89062554
+extracted_images\pdf_page_4_img_0.jpeg,non_medical,0.7615522
+extracted_images\pdf_page_4_img_1.jpeg,medical,0.95035267
