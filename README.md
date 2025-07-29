@@ -13,7 +13,7 @@ This is a foundational AI/ML project that classifies images as **Medical** or **
 ---
 
 ## Project Structure
-
+text ... 
 medical_image_classifier/
 │
 ├── extract_and_classify.py # Extracts images from PDF, classifies and logs results
