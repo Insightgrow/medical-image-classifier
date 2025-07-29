@@ -28,7 +28,7 @@ medical_image_classifier/
 ├── sample_medical.pdf # Sample input PDF for demo
 ├── .gitignore # Files and folders to ignore
 └── venv/ # Python virtual environment (excluded from Git)
-
+```
 Requirements
 - Python 3.8+
 - PyTorch
